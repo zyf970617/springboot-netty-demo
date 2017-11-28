@@ -1,7 +1,7 @@
 package com.netty.server.netty.handler;
 
-import com.netty.server.netty.inter.RandomName;
-import com.netty.server.netty.inter.RedisDao;
+import com.netty.server.netty.util.RandomName;
+import com.netty.server.netty.util.RedisDao;
 import io.netty.channel.Channel;
 import io.netty.channel.ChannelHandler;
 import io.netty.channel.ChannelHandlerContext;

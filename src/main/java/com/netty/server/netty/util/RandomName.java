@@ -1,4 +1,4 @@
-package com.netty.server.netty.inter;
+package com.netty.server.netty.util;
 
 import java.util.Random;
 
