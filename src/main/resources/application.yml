@@ -1,0 +1,20 @@
+spring:
+  thymeleaf:
+    cache: false
+    prefix: classpath:/templates/
+    suffix: .html
+    encoding: UTF-8
+    content-type: text/html
+  redis:
+    host: localhost
+    port: 6688
+    pool.max-idle: 8
+    pool.min-idle: 0
+    pool.max-active: 8
+    pool.max-wait: -1
+    password: xxxxxx
+    timeout: 0
+server:
+  port: 8080
+
+
