@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>netty</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot 111</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
